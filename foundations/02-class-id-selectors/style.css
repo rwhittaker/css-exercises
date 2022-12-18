@@ -1,0 +1,16 @@
+p {
+    background-color: pink;
+    font-family: verdana, sans-serif;
+    font-size: 24px;
+}
+
+#even {
+    color: blue;
+    font-size: 36px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
